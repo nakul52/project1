@@ -1,7 +1,0 @@
-
-
-btn.addEventListener('click' , function(e) {
-
-   alert("hello world")  
-  
-})
